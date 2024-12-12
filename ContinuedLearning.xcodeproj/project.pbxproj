@@ -6,12 +6,7 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		EA564B4E2D05DF7E0038775D /* GeometryReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA564B4D2D05DF7E0038775D /* GeometryReaderView.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
-		EA564B4D2D05DF7E0038775D /* GeometryReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderView.swift; sourceTree = "<group>"; };
 		EAC72F612D00378F00B05B31 /* ContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -37,7 +32,6 @@
 		EAC72F582D00378F00B05B31 = {
 			isa = PBXGroup;
 			children = (
-				EA564B4D2D05DF7E0038775D /* GeometryReaderView.swift */,
 				EAC72F632D00378F00B05B31 /* ContinuedLearning */,
 				EAC72F622D00378F00B05B31 /* Products */,
 			);
@@ -125,7 +119,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EA564B4E2D05DF7E0038775D /* GeometryReaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
